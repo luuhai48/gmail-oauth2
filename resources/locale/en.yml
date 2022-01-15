@@ -1,0 +1,13 @@
+core:
+  admin:
+    email:
+      gmail-oauth2_heading: Gmail Oauth2 Settings
+      gmail_oauth2_client_id_label: Client ID
+      gmail_oauth2_client_secret_label: Client Secret
+      gmail_oauth2_token_label: Refresh Token
+      gmail_oauth2_email_label: Mail Username
+
+luuhai48:
+  admin:
+    email:
+      gmail_oauth2_fetch_token_button: Fetch Token
